@@ -1,3 +1,7 @@
+tmp.csv
+sample_times.csv
+sql_times.csv
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
